@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>FORM</title>
+</head>
+<body>
+
+<center>
+	
+	<h1>FORMULIR PENDAFTARAN MAHASISWA BARU</h1>
+
+</center>
+
+<hr />
+<form method="POST" action="isi-form.php" enctype="multipart/form-data">
+		
+	<span align="left"><b>Nama Lengkap</b> :</span>
+	<br />
+	<input type="text" name="nama_lengkap" placeholder="Masukkan Nama Lengkap" size="30">
+		
+	<br /><br />
+	<span align="left"><b>Alamat Rumah</b> :</span>
+	<br />
+	<textarea name="alamat_rumah" cols="31" rows="8"></textarea>
+		
+	<br /><br />
+	<span align="left"><b>Jenis Kelamin</b> :</span>
+	<br />
+	<input type="radio" name="jenis_kelamin"><span>Laki-Laki</span>
+	<input type="radio" name="jenis_kelamin"><span>Perempuan</span>
+		
+	<br /><br />
+	<span align="left"><b>Agama</b> :</span>
+	<br />
+	<select name="agama">
+		<option value="0">- Pilih Agama -</option>
+		<option value="Islam">Islam</option>
+		<option value="Kristen">Kristen</option>
+		<option value="Katolik">Katolik</option>
+		<option value="Hindu">Hindu</option>
+		<option value="Buddha">Buddha</option>
+		<option value="Kong Hu Cu">Kong Hu Cu</option>
+		<option value="Ateis">Ateis</option>
+	</select>
+		
+	<br /><br />
+	<span align="left"><b>Alamat Email</b> :</span>
+	<br />
+	<input type="email" name="alamat_email" placeholder="Masukkan Alamat Email" size="30">
+
+	<br /><br />
+	<hr />
+	<center>
+		<h2>Informasi Login</h2>
+	</center>
+		
+	<span align="left"><b>Username</b> :</span>
+	<br />
+	<input type="text" name="username" placeholder="Masukkan Username" size="30">
+		
+	<br /><br />
+	<span align="left"><b>Password</b> :</span>
+	<br />
+	<input type="password" name="password" placeholder="Masukkan Password" size="30">
+		
+	<br /><br />
+	<input type="submit" value="Kirim" size="30">
+	<input type="reset" value="Batal">
+		
+	<br /><br />
+	<hr />
+
+</form>
+
+</body>
+</html>
