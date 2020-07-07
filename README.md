@@ -1,15 +1,14 @@
 # 1900018037
-Tugas 3 | FORM HTML
+Tugas Final Project - !DENGAN JUDUL FORMULIR PENDAFTARAN MAHASISWA BARU!
+
+Tugas ini sebagai Presensi Minggu ke-14
+
+- Ini merupakan lanjutan dari tugas-tugas sebelumnya. dimana kita akan membuat fungsi PHP (pada file PHP yang telah Anda buat pada tugas 5) untuk menyimpan data yang
+telah Anda masukkan dan validasi ke dalam file .txt
+- Tampilkan data yang telah Anda tulis di file .txt ke tabel.html yang telah Anda buat pada tugas 3
+- Program ini sudah saya lengkapi dengan CSS dan JS, jadi tampilannya lebih user friendly
 
 
-Tugas 5 - Form Handling dan Validasi Form
-
-Ini merupakan lanjutan dari TUGAS 3 dimana kita akan memperbaharui form.html & merubah table.html menjadi table.php. di dalam table.php terdapat proses & validasi dari inputan kita. Jika kita belum melakukan inputan pada form.php maka kita tidak bisa untuk mengakses table.php
-
-
-File form.html & table.html tidak saya rubah/hapus, supaya bisa menjadi perbandingan dari perubahan yang saya buat pada form.html & table.html
-
-
-Mungkin cuma itu yang dapat saya pahami & kerjakan dari Tugas 5 ini.
+Mungkin cuma itu yang dapat saya pahami & kerjakan dari Tugas Final Project ini.
 
 Terimakasih :-)
